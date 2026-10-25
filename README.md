@@ -10,22 +10,35 @@ This project focuses on analyzing UK train journey data to understand travel pat
 
 3. Team Members
 [Jana Gamal]
+
 [Jana Ahmed]
+
 [Fatima Mahmoud]
+
 [Habiba Rasheed]
+
 [Moemena Magdy]
 
 5. Work Plan
 Data Collection: Gather the train journey dataset and identify the available data fields.
+
 Data Cleaning: Check for missing values, duplicate records, inconsistent formats, and data quality issues.
+
 Exploratory Data Analysis: Explore the dataset to identify trends, patterns, and relationships.
+
 KPI Analysis: Calculate relevant metrics based on the available data.
+
 Data Visualization: Create charts, graphs, and dashboards to communicate the findings.
+
 Insights and Recommendations: Summarize the main findings and suggest improvements where supported by the analysis.
+
 Final Documentation: Organize the project files and prepare the final report and GitHub repository.
-6. Roles & Responsibilities
+
+7. Roles & Responsibilities
 [Jana Gamal]: [Data Collection, Exploration, Cleaning and Importing cleaned several csv files to SQL.]
+
 [Jana Ahmed]: [Data Modeling , DAX measurements, KPI analysis and first Dashboard.]
+
 [Fatima Mahmoud]: 
 [Habiba Rasheed]:
 [Moemena Magdy]:
@@ -35,10 +48,15 @@ Final Documentation: Organize the project files and prepare the final report and
 The project will analyze relevant indicators based on the available dataset, which may include:
 
 Total number of train journeys.
+
 Total ticket revenue and average ticket value.
+
 Journey distribution by route, station, or travel period.
+
 Ticket sales by ticket type and class.
+
 Passenger demand during peak and off-peak periods.
+
 Delay and cancellation rates, if the necessary data is available.
 
 
