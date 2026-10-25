@@ -9,6 +9,7 @@ UK Train Rides Analysis
 This project focuses on analyzing UK train journey data to understand travel patterns, ticket sales, passenger demand, and railway performance. The goal is to extract useful insights from the data and present them through clear visualizations and reports to support better understanding and decision-making.
 
 3. Team Members
+4. 
 [Jana Gamal]
 
 [Jana Ahmed]
@@ -35,13 +36,16 @@ Insights and Recommendations: Summarize the main findings and suggest improvemen
 Final Documentation: Organize the project files and prepare the final report and GitHub repository.
 
 7. Roles & Responsibilities
+   
 [Jana Gamal]: [Data Collection, Exploration, Cleaning and Importing cleaned several csv files to SQL.]
 
 [Jana Ahmed]: [Data Modeling , DAX measurements, KPI analysis and first Dashboard.]
 
-[Fatima Mahmoud]: 
-[Habiba Rasheed]:
-[Moemena Magdy]:
+[Fatima Mahmoud]: [DAX measurements, KPI analysis and second Dashboard.]
+
+[Habiba Rasheed]:[DAX measurements, KPI analysis and third Dashboard.]
+
+[Moemena Magdy]:[DAX measurements, KPI analysis and fourth Dashboard.]
 
 6. KPIs (Key Performance Indicators)
 
