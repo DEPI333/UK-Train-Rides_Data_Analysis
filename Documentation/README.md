@@ -1,3 +1,11 @@
+## Analytical Questions & Business Scope Documentation:
+
+Sales & Revenue Performance: Revenue trends (daily/weekly/MoM), route profitability, top-10 route Pareto analysis, and railcard pricing dynamics.
+Customer Purchasing Behavior: Online vs. station split, payment preferences, booking lead-time analysis, and peak transaction hours.Ticket & Product Mix: Class distribution (First vs. Standard), volume vs. revenue contribution, and railcard utilization across ticket types.
+Route & Station Network: Busiest network hubs, route pairing balance ($A \to B$ vs. $B \to A$), and high-volume commercial bottlenecks.Punctuality & Delay Analysis: On-time rates, delay distributions, root-cause clustering (signals, staffing, weather), and peak-hour operational impacts.
+Refunds & Operational Impact: Refund request rates across delay severity brackets, revenue at risk, and delay-reason correlation.
+
+
 ## Power Query Documentation:
 
 Extraction & schema typing: Automated data ingestion with explicit type transformations.
