@@ -1,4 +1,4 @@
- Database Documentation
+## Database Documentation
 
 The project uses a MySQL relational database hosted on FreeSQLDatabase.com, containing three dimension tables and one central fact table.
 
