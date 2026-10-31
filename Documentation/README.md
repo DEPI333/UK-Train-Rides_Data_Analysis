@@ -7,8 +7,6 @@ Missing value handling: Imputing missing railcards (No Railcard), delay reasons 
 Surrogate key creation: Generating composite primary/foreign keys (Ticket_ID, Route_Key).
 Star Schema dimensional modeling: Splitting the flat file into Fact_Journey, Dim_Ticket, Dim_Route, and Dim_Date.
 
-Technical Documentation: View Power Query Cleaning Documentation
-
 ## Database Documentation:
 
 The project uses a MySQL relational database hosted on FreeSQLDatabase.com, containing three dimension tables and one central fact table.
