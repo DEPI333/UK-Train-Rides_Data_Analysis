@@ -12,7 +12,3 @@ Database Documentation includes:
 - SQL validation and data integrity queries.
 - Power BI database integration.
 
-**Technical Documentation:** [View Database Technical Documentation](Documentation/Database_Technical_Documentation.pdf)
-
-## Power Query Cleaning Documentation
-- [Power Query Data Cleaning Documentation](power_query_cleaning_documentation.md)
